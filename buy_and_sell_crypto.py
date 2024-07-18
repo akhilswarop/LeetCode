@@ -11,13 +11,5 @@ class Solution:
             maxProfit = max(profit, maxProfit)
         return maxProfit
 
-
-            
-
-            
-
-            
-
-
 s = Solution()
 print(s.maxProfit([5,1,5,6,7,1,10]))
